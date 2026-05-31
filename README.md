@@ -60,3 +60,13 @@ Responsible for:
 - Java/Kotlin
 - A* Path Planning Algorithm
 - Deep Neural Networks (DNN)
+
+**Navigation Methodology**
+1. User selects destination through Android application.
+2. Indoor environment is represented as a grid map.
+3. A* algorithm computes the optimal global path.
+4. Navigation commands are transmitted to the robot.
+5. Ultrasonic sensors continuously monitor obstacles.
+6. DNN model predicts safe movement actions.
+7. Hybrid controller dynamically adjusts robot motion.
+8. Robot reaches destination while avoiding obstacles.
