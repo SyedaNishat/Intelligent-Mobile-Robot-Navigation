@@ -70,3 +70,11 @@ Responsible for:
 6. DNN model predicts safe movement actions.
 7. Hybrid controller dynamically adjusts robot motion.
 8. Robot reaches destination while avoiding obstacles.
+
+**DNN Motion Classes**
+The deployed DNN model classifies robot motion into:
+- Forward
+- Left
+- Right
+- Backward
+- Stop
