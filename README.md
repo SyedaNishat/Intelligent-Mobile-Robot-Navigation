@@ -78,3 +78,14 @@ The deployed DNN model classifies robot motion into:
 - Right
 - Backward
 - Stop
+
+**Experimental Evaluation**
+The system was evaluated in a structured indoor environment under:
+- Static obstacle scenarios
+- Dynamic obstacle scenarios
+- Multiple start-goal combinations
+
+Performance comparison was conducted across:
+- A* Navigation
+- DNN Navigation
+- Hybrid Navigation
