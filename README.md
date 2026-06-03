@@ -89,3 +89,10 @@ Performance comparison was conducted across:
 - A* Navigation
 - DNN Navigation
 - Hybrid Navigation
+
+**Applications**
+- Indoor service robots
+- Smart warehouse navigation
+- Educational robotics
+- Autonomous mobile platforms
+- Research in lightweight robotic intelligence
