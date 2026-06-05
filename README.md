@@ -96,3 +96,10 @@ Performance comparison was conducted across:
 - Educational robotics
 - Autonomous mobile platforms
 - Research in lightweight robotic intelligence
+
+**Future Improvements**
+- SLAM integration
+- Camera-based perception
+- Multi-robot coordination
+- Cloud-assisted navigation
+- Reinforcement learning-based control
