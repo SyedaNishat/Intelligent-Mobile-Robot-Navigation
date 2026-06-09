@@ -103,3 +103,14 @@ Performance comparison was conducted across:
 - Multi-robot coordination
 - Cloud-assisted navigation
 - Reinforcement learning-based control
+
+**Research Contribution**
+
+This work demonstrates that reliable indoor autonomous navigation can be achieved using:
+
+- Low-cost sensors
+- Lightweight embedded hardware
+- Edge-AI processing
+- Hybrid navigation intelligence
+
+without requiring expensive sensing or high-performance computing platforms.
