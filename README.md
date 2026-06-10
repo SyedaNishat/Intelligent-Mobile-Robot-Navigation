@@ -114,3 +114,8 @@ This work demonstrates that reliable indoor autonomous navigation can be achieve
 - Hybrid navigation intelligence
 
 without requiring expensive sensing or high-performance computing platforms.
+
+**Authors**
+
+Syeda Nishat
+Department of Artificial Intelligence and Machine Learning
