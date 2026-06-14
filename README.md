@@ -6,7 +6,6 @@ This project presents a lightweight hybrid autonomous indoor navigation framewor
 
 The framework is implemented using a Car-3 differential-drive robotic platform integrated with ultrasonic sensors, Arduino-based embedded control, Bluetooth communication, and Android-supported edge-AI processing.
 
-cdv
 **Key Features**
 - Hybrid navigation using A* + DNN
 - Real-time obstacle avoidance
