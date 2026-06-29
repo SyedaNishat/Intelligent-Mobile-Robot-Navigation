@@ -19,7 +19,7 @@ The framework is implemented using a Car-3 differential-drive robotic platform i
 
 **System Architecture**
 
-The navigation framework consists of two major processing layers:
+The navigation framework consists of 2 major processing layers:
 
 **1. Android Edge-AI Layer**
 
