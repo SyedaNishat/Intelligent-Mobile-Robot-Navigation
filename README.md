@@ -112,6 +112,7 @@ This work demonstrates that reliable indoor autonomous navigation can be achieve
 - Lightweight embedded hardware
 - Edge-AI processing
 - Hybrid navigation intelligence
+- Ardunio Based Platform
 
 without requiring expensive sensing or high-performance computing platforms.
 
